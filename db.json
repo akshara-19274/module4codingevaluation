@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "id": 1, "name": "Mobile", "price": 20000, "stock": 15 }
+  ],
+  "orders": []
+}
